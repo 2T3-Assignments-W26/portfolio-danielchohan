@@ -6,7 +6,9 @@ PowerShell Logo goes here
 
 **PowerShell** is a powerful _command-line_ shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, **PowerShell** is both a **_command-line_** tool and a **_scripting environment_**, making it a versatile tool for programmers and system administrators.
 
-Quote: "PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." ( from the interview with Jeffrey Snover, PowerShell Inventor) 
+> "PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project."
+> 
+> _Source: from the interview with Jeffrey Snover, PowerShell Inventor_
 
 Why Learn PowerShell?
 PowerShell is an essential tool for:
