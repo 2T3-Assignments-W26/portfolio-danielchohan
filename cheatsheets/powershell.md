@@ -89,14 +89,15 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
 
 #### Visual Studio Code (VS Code)
 
-What it is: A free, open-source, cross-platform code editor by Microsoft.
-Features:
-Syntax highlighting and IntelliSense for PowerShell.
-Integrated terminal for running scripts.
-Extensions for additional functionality (e.g., PowerShell extension).
-Support for Git and other version control systems.
-Cross-platform (Windows, macOS, Linux).
-Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
+* What it is: A free, open-source, cross-platform code editor by Microsoft.
+* Features:
+  * Syntax highlighting and IntelliSense for PowerShell.
+  * Integrated terminal for running scripts.
+  * Extensions for additional functionality (e.g., PowerShell extension).
+  * Support for Git and other version control systems.
+  * Cross-platform (Windows, macOS, Linux).
+* Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
+
 
 ![VS Code Logo](vs_code.png)
 
