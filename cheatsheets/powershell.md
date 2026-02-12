@@ -11,7 +11,7 @@
 > _Source: [Interview](https://evrone.com/blog/jeffrey-snover-interview) with Jeffrey Snover, PowerShell Inventor_
 
 ## Why Learn PowerShell?
- PowerShell is an essential tool for:
+PowerShell is an essential tool for:
 1. Automating repetitive tasks.
 2. Managing and configuring systems.
 3. Working with files, processes, and services.
