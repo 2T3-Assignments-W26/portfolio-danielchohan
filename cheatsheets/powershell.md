@@ -73,6 +73,7 @@ PowerShell is an essential tool for:
 * **`Set-Location`**: Changes the current directory (like `cd` in Command Prompt).
 * **`New-Item`**: Creates a new file or directory.
 *  **`Get-Content`**: Gets the content of a file.
+* **`Add-Content`**: Appends content such as word or data to a file.
 
 ### Example Script
 
