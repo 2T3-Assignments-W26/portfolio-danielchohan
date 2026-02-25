@@ -7,7 +7,7 @@ Vaudreuil-Dorion, QC J7V9M4 * (514)-757-3269 * danielchohan18@gmail.com
 
 ## Professional Summary
 
-TEMPORARY THINGY HERE
+Detail-Oriented, hard working professional with experience in IT support, programming and team oriented work. Demonstrated leadership as Head Lifeguard and coordinating a team under stressful situations. Skilled in C#, Java, and web development.
 
 ## Work History
 
