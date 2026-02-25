@@ -13,15 +13,15 @@ TEMPORARY THINGY HERE
 
 #### **Lifeguard**, 06/2022-2024 *Municipality of Terrasse-Vaudreuil, QC*
 
-* Placeholder placeholder
-* plc
-* plc
+* Monitored pool activity to ensure safety of all clients.
+* Worked together with a team to maintain a safe and respectful environment.
+* Provided clear instructions regarding the rules of the pool.
 
 #### **Swim Instructor**, 06/22 to Current *Municipality of Terrasse-Vaudreuil, QC*
 
-* PLC PLC
-* PLC PLC
-* PLC
+* Designed and delivered swim lesson plans for children and adults.
+* Instructed children on water safety, swim skills and endurance.
+* Adapted teaching methods to accomodate for various needs.
 
 #### **Head Lifeguard**, 06/2024 to Current *Municipality of Terrasse-Vaudreuil, QC*
 
@@ -32,8 +32,8 @@ TEMPORARY THINGY HERE
 
 #### **IT Specialist**, 04/2024 to Current *ReliaSat Inc.*
 
-* Troubleshooting all sorts of devices.
-* Boost productivity by ensuring all devices at work function as intended.
+* Troubleshot hardware and software issues to maximize efficiency.
+* Provided general technical support to staff.
 
 ## Skills
 
