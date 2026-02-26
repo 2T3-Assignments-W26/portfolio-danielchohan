@@ -1,5 +1,3 @@
-TOP BAR HERE
-
 IMAGE
 
 # Daniel Chohan
