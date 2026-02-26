@@ -1,4 +1,4 @@
-![ME](/AboutMe/Daniel_Chohan1.png)
+![ME](Daniel_Chohan1.png)
 
 # Daniel Chohan
 Vaudreuil-Dorion, QC J7V9M4 * (514)-757-3269 * danielchohan18@gmail.com

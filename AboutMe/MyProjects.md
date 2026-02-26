@@ -105,8 +105,8 @@ This is a fishing game I made using Object Oriented Programming in P1, here is t
             }
         }
 ````
-![Main Menu](/AboutMe/p1_FishingMenu.png)
-![Gameplay](/AboutMe/P1_Fishing1.png)
+![Main Menu](p1_FishingMenu.png)
+![Gameplay](P1_Fishing1.png)
 
 ## What I learned
 I learned about classes and objects as my professor challenged me to teach myself object oriented programming. I also learned the ins and outs of game development from design to debugging.
@@ -170,7 +170,7 @@ I learned about classes and objects as my professor challenged me to teach mysel
                 Console.ReadLine();
             }
 ````    
-![Random Number Guessing Game Menu](/AboutMe/RNG_Guessing.png)
+![Random Number Guessing Game Menu](RNG_Guessing.png)
 
 ## What I learned
 Doing this game taught me early on how to do input validation as well as how to get a random number in C#.
